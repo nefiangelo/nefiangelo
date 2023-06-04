@@ -1,4 +1,4 @@
-## Hi, i'm Néfi Ângelo!
+<h1 style="text-align: center;">Hi, i'm Néfi Ângelo!<h1>
 
 
 <!-- GITHUB STATS: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
