@@ -1,4 +1,4 @@
-<h1 style="margin-left: 100px;">Hi, i'm Néfi Ângelo!<h1>
+<h1 style=" width=500px; height=100px; margin-left: 100px;">Hi, i'm Néfi Ângelo!<h1>
 
 
 <!-- GITHUB STATS: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
