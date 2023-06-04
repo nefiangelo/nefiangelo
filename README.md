@@ -1,4 +1,4 @@
-##                  Hi, i'm Néfi Ângelo!
+## Hi, i'm Néfi Ângelo!
 
 
 <!-- GITHUB STATS: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
@@ -26,7 +26,7 @@
   <img alt="nefi-js" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="nefi-html" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="nefi-css" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="nefi-c" width="30px" height"20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="nefi-c" width="30px" height"30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 ##
