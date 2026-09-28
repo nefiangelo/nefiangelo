@@ -10,8 +10,9 @@
 
 # Néfi Ângelo
 
-Sou um desenvolvedor Full Stack Júnior atuando na Cactus Tecnologia e estudante do 8º período na Universidade do Estado do Rio Grande do Norte (UERN).
-Tenho experiência na criação de soluções web, integração de hardware e design de interfaces. Atualmente, concilio minha atuação profissional com o desenvolvimento de um jogo eletrônico para o meu projeto de conclusão de curso (TCC), com o objetivo de construir uma carreira sólida na área de desenvolvimento de games.
+Sou um desenvolvedor Full Stack na Cactus Tecnologia e estudante de Ciência da Computação na Universidade do Estado do Rio Grande do Norte (UERN). 
+Tenho sólida experiência no ciclo de vida de desenvolvimento de software e na engenharia de soluções web. 
+Minha atuação abrange desde a estruturação de bancos de dados relacionais e construção de regras de negócio no back-end, até a implementação de interfaces modernas, responsivas e otimizadas no front-end.
 
 ## Minhas Habilidades
 
@@ -39,6 +40,5 @@ Tenho experiência na criação de soluções web, integração de hardware e de
 [![GitHub Streak](https://streak-stats.demolab.com?user=nefiangelo&theme=dracula&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats-theta-silk-29.vercel.app/api?username=nefiangelo&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats-theta-silk-29.vercel.app/api/top-langs/?username=nefiangelo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
