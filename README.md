@@ -2,8 +2,8 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://github.com/pranesh-2005/github-readme-stats-fast" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefiangelo&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats-theta-silk-29.vercel.app/api?username=nefiangelo&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-theta-silk-29.vercel.app/api/top-langs/?username=nefiangelo&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 <br>
   
