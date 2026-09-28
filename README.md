@@ -1,26 +1,44 @@
-<h1 align="center">Hi, I'm Néfi Ângelo!</h1>
+![](https://komarev.com/ghpvc/?username=nefiangelo&color=217ec4)
 
-<!-- GITHUB STATS -->
-<div align="center">
-  <img src="https://github-readme-stats-theta-silk-29.vercel.app/api?username=nefiangelo&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-theta-silk-29.vercel.app/api/top-langs/?username=nefiangelo&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-<br>
-  
-<!-- IMAGENS DAS LINGUAGENS -->
-<div align="center">
-  <img alt="nefi-js" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="nefi-html" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="nefi-css" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="nefi-c" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img alt="nefi-php" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-</div>
+#
 
-<br>
+<p>
+<a href="mailto:nefiangelo2311@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-0d1116?style=flat-square&logo=gmail&logoColor=ea4336" /></a>
+<a href="https://www.linkedin.com/in/néfi-ângelo-391960131/"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0d1116?style=flat-square&logo=linkedin&logoColor=007ab5" /></a>
+<a href="https://instagram.com/nef.ang"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-0d1116?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+</p>
 
-<!-- REDES SOCIAIS -->
-<div align="center"> 
-  <a href="https://instagram.com/nef.ang" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
-  <a href="mailto:nefiangelo2311@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/n%C3%A9fi-%C3%A2ngelo-391960131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+# Néfi Ângelo
+
+Sou um desenvolvedor Full Stack Júnior atuando na Cactus Tecnologia e estudante do 8º período na Universidade do Estado do Rio Grande do Norte (UERN).
+Tenho experiência na criação de soluções web, integração de hardware e design de interfaces. Atualmente, concilio minha atuação profissional com o desenvolvimento de um jogo eletrônico para o meu projeto de conclusão de curso (TCC), com o objetivo de construir uma carreira sólida na área de desenvolvimento de games.
+
+## Minhas Habilidades
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-244bdd?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9" />
+</p>
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+<p>
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere%20Pro-9c9cff?style=flat-square&logo=adobepremierepro&logoColor=080850" />
+</p>
+
+## Minhas Contribuições no GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nefiangelo&theme=dracula&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats-theta-silk-29.vercel.app/api?username=nefiangelo&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-theta-silk-29.vercel.app/api/top-langs/?username=nefiangelo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
