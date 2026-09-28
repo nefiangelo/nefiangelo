@@ -16,23 +16,45 @@ Minha atuação abrange desde a estruturação de bancos de dados relacionais e 
 
 ## Minhas Habilidades
 
+### 💻 Front-end
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-244bdd?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
-  <img alt="Electron" src="https://img.shields.io/badge/-Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9" />
 </p>
+
+### ⚙️ Back-end & Desktop
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9" />
 </p>
+
+### 🗄️ Banco de Dados
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+### 🎮 Desenvolvimento de Jogos
+<p>
+  <img alt="Godot" src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+  <img alt="GameMaker" src="https://img.shields.io/badge/-GameMaker-71B417?style=flat-square&logo=gamemaker&logoColor=white" />
+</p>
+
+### 🎨 Design & Audiovisual
 <p>
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
   <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere%20Pro-9c9cff?style=flat-square&logo=adobepremierepro&logoColor=080850" />
+</p>
+
+### 🛠️ Ferramentas
+<p>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ## Minhas Contribuições no GitHub
